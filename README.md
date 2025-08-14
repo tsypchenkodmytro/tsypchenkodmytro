@@ -40,4 +40,4 @@ With **6 years of experience** working with diverse datasets and building end-to
 
 Let's discuss how I can help your business leverage the power of data!  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tsypchenkodmytro&show_icons=true&theme=radical)
+
