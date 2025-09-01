@@ -1,4 +1,4 @@
-# Data Engineering | AI & Data Analytics & Visualization Expert 👋
+# Data Engineering | ML/AI & Data Analytics & Visualization Expert 👋
 
 Welcome to my GitHub profile!  
 
