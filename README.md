@@ -33,9 +33,10 @@ With **6 years of experience** working with diverse datasets and building end-to
 ---
 
 ## 🏅 Certifications
-- **Google:** Google Data Analytics  
-- **Edchart:** Analyzing Data with Power BI  
-
+- **Google:** Google Data Analytics
+  https://www.coursera.org/account/accomplishments/certificate/45DXIHUJDNLO<img width="547" height="19" alt="image" src="https://github.com/user-attachments/assets/e7ae56e5-a375-4766-91c4-3b80acfee85b" />
+- **Edchart:** Analyzing Data with Power BI
+  https://drive.google.com/file/d/1VohI-DqjYE5bt3rBgQUIFqf6r8E6T6ML/view?usp=sharing
 ---
 
 Let's discuss how I can help your business leverage the power of data!  
