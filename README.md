@@ -8,7 +8,11 @@ I collaborate closely with founders, product teams, and analysts, and I am known
 
 ---
 
-## 🇺🇦 🇺🇦 🇺🇦 SUPPORT UKRAINE — HELP CIVILIANS AFFECTED BY WAR 🇺🇦 🇺🇦 🇺🇦
+<h2 align="center">🇺🇦 SUPPORT UKRAINE — HELP CIVILIANS AFFECTED BY WAR 🇺🇦</h2>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" width="120" />
+</p>
 
 Ukraine continues to face immense humanitarian challenges. Every contribution—no matter the size—directly helps civilians with food, medical aid, evacuation support, and rebuilding essential infrastructure.
 
