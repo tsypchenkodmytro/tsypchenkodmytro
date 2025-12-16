@@ -1,44 +1,99 @@
-# Data Engineering | ML/AI & Data Analytics & Visualization Expert 👋
+# Data Engineering | Analytics & AI Automation Specialist
 
-Welcome to my GitHub profile!  
+Welcome to my GitHub profile.
 
-I am a skilled and results-driven **Data Engineering and AI specialist** with expertise in data analysis, machine learning, and data visualization.  
-With **6 years of experience** working with diverse datasets and building end-to-end data solutions, I help businesses transform raw data into actionable insights that drive strategic decisions.
+I am a results‑driven **Data Engineer and Analytics Specialist** with strong hands‑on experience delivering production‑ready dashboards, data pipelines, and automation solutions for real businesses. My work focuses on turning fragmented data into **clear, decision‑ready insights** using modern BI tools, cloud platforms, and lightweight AI systems.
+
+I work extensively with **Looker Studio, Google Sheets / Excel dashboards, API‑driven data ingestion, and chatbot implementations**, supporting founders, agencies, and product teams with fast, reliable analytics solutions.
 
 ---
 
-## 🚀 Technologies
+## 🇺🇦 Support Ukraine — Stand With People Who Defend Freedom
 
-### Data Engineering
-- ETL pipelines, data modeling, database design (SQL, NoSQL)  
-- Big data technologies: Hadoop, Spark, Kafka  
+Ukraine is fighting not only for its own land, but for democratic values and the safety of millions of civilians. Every contribution helps provide **humanitarian aid, medical support, food, and essential supplies** to people affected by the war.
 
-### AI & Machine Learning
-- Predictive analytics, algorithm development  
-- Model training and evaluation using Python, TensorFlow, PyTorch  
+If you believe in freedom, dignity, and protecting innocent lives, please consider supporting Ukraine. Even a small donation makes a real difference.
 
-### Data Visualization
-- Interactive dashboards using Tableau, Power BI  
-- Python libraries: Matplotlib, Seaborn  
+### 💙 Donate via Crypto (Tap to Copy)
 
-### Data Analytics
-- Exploratory Data Analysis (EDA)  
-- Statistical analysis and time series forecasting  
+**USDT (TRC20)**  
+`TSgqVFpfBvXTir22aKvPDYPpAffHGvudhn`
 
-### Tools & Platforms
-- SQL, Python, R, Hadoop, Spark  
-- Cloud: AWS, GCP  
-- BI tools: Tableau, Power BI  
+**USDT (ERC20 / BEP20)**  
+`0xffd15549476c4edb8cedbe82ac0e7375791d3643`
+
+Your support is deeply appreciated. Thank you for standing with Ukraine.
+
+---
+
+## 🚀 Core Expertise
+
+### 📊 Data Analytics & Dashboarding
+- Looker Studio dashboards for marketing, finance, operations, and KPI tracking
+- Advanced **Google Sheets / Excel dashboards** (dynamic formulas, pivots, automation)
+- Year‑over‑Year, cohort, funnel, and performance analysis
+- Executive‑level reporting with clean UX and clear metrics
+
+### 🛠️ Data Engineering
+- API data ingestion (REST, CSV, JSON)
+- Data cleaning, normalization, and transformation
+- SQL‑based modeling and analytics layers
+- Lightweight ETL pipelines for analytics workloads
+
+### 🤖 AI & Automation
+- AI‑assisted chart and visual generation
+- Chatbot implementation (Telegram bots, ordering flows, automation bots)
+- Python‑based analytics and automation scripts
+
+### 📈 Business Intelligence Tools
+- Looker Studio (formerly Google Data Studio)
+- Google Sheets / Excel
+- Power BI (migration and replacement projects)
+
+### ☁️ Platforms & Languages
+- Python, SQL, R
+- Google Cloud Platform
+- REST APIs
+
+---
+
+## 💼 Selected Upwork Experience
+
+**Data Engineer – EV Traffic Analysis (U.S.)**  
+5.0 ⭐ | Dec 2025  
+Analyzed EV traffic and utilization data, built analytical dashboards, and supported data‑driven site selection decisions.
+
+**Google Sheets Dashboard for KPI Monitoring**  
+5.0 ⭐ | Nov 2025  
+Designed automated KPI dashboards for business monitoring and executive reporting.
+
+**Looker Studio Dashboard (Replacing Power BI)**  
+5.0 ⭐ | Nov 2025  
+Built Looker Studio dashboards to replace Power BI, praised for clarity, responsiveness, and communication.
+
+**Warehouse Order Dashboard (Excel)**  
+5.0 ⭐ | Oct–Nov 2025  
+Delivered a live operational dashboard with a working demo upfront.
+
+**AI Engineer – Chart & Visual Generation**  
+5.0 ⭐ | Oct 2025  
+Implemented AI‑driven chart generation logic at scale.
+
+**Telegram Ordering Bot**  
+5.0 ⭐ | Sep–Oct 2025  
+Developed a full ordering bot with payment handling and order management.
 
 ---
 
 ## 🏅 Certifications
-- **Google:** Google Data Analytics
-  https://www.coursera.org/account/accomplishments/certificate/45DXIHUJDNLO
-- **Edchart:** Analyzing Data with Power BI
-  https://drive.google.com/file/d/1VohI-DqjYE5bt3rBgQUIFqf6r8E6T6ML/view?usp=sharing
+
+- **Google Data Analytics**  
+https://www.coursera.org/account/accomplishments/certificate/45DXIHUJDNLO
+
+- **Analyzing Data with Power BI (Edchart)**  
+https://drive.google.com/file/d/1VohI-DqjYE5bt3rBgQUIFqf6r8E6T6ML/view
+
 ---
 
-Let's discuss how I can help your business leverage the power of data!  
-
+If you are looking for **clean dashboards, reliable analytics, or automation that actually works in production**, feel free to explore my repositories or reach out.
 
