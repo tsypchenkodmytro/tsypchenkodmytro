@@ -8,7 +8,7 @@ I collaborate closely with founders, product teams, and analysts, and I am known
 
 ---
 
-## 🇺🇦 Support Ukraine — Help Civilians Affected by War
+## 🇺🇦 🇺🇦 🇺🇦 SUPPORT UKRAINE — HELP CIVILIANS AFFECTED BY WAR 🇺🇦 🇺🇦 🇺🇦
 
 Ukraine continues to face immense humanitarian challenges. Every contribution—no matter the size—directly helps civilians with food, medical aid, evacuation support, and rebuilding essential infrastructure.
 
@@ -25,10 +25,10 @@ If my open-source work or professional contributions have helped you, please con
 `0xffd15549476c4edb8cedbe82ac0e7375791d3643`
 
 **Bitcoin (BTC)**  
-`[Add BTC address here]`
+`3FTAb6adzPNCsUKGb5NEigWecv8xBkgvU6`
 
-**Ethereum (ETH)**  
-`[Add ETH address here]`
+**Solana (SOL)**  
+`8bXsiRykJZu8ftQsHcMN7JaHifreRuYqCNSD7UVNnP6t`
 
 Thank you for standing with Ukraine. Your support truly matters.
 
@@ -36,27 +36,27 @@ Thank you for standing with Ukraine. Your support truly matters.
 
 ## 🧠 Core Expertise
 
-### 📊 Data Visualization & BI
-- Looker Studio (Looker AI Studio)
-- Google Sheets & Excel (advanced formulas, KPI dashboards, live reporting)
-- Power BI (migration, semantic models, financial statements)
-- Executive dashboards, YoY comparisons, KPI monitoring
-
-### 🛠 Data Engineering
+### 🧩 Data Engineering
 - Data modeling and transformation (SQL, BigQuery)
+- ETL / ELT pipelines and automation
 - API integrations (GA, Ads, CRM, custom APIs)
-- Automated reporting pipelines
 - Data quality checks and reconciliation logic
 
-### 🤖 AI & Automation
+### 🤖 AI & Analytics
 - AI-driven chart & visual generation
-- Chatbot implementation (Telegram bots, ordering systems, workflow automation)
-- Python-based analytics and forecasting
+- Forecasting and statistical analysis
+- Python-based analytics workflows
+- Feature engineering and model evaluation
 
----
+### 📊 Dashboard Automation & BI
+- Looker Studio (Looker AI Studio)
+- Google Sheets & Excel (advanced formulas, live dashboards)
+- Power BI (migrations, semantic models)
+- Executive, KPI, YoY, and operational dashboards
 
----
-
+### 💬 Chatbot & Workflow Automation
+- Telegram bots (ordering, payments, admin panels)
+- Chatbot logic, integrations, and automation
 
 ## 🏅 Certifications
 
