@@ -20,19 +20,26 @@ If my open-source work or professional contributions have helped you, please con
 
 ### 💙 Donation Addresses (Crypto)
 
-> You can safely copy any address below. Funds are used to support people affected by the war in Ukraine.
+GitHub adds a **copy button** automatically for each code block below—use it to copy an address with one click.
 
-**USDT (TRC20)**  
-`TSgqVFpfBvXTir22aKvPDYPpAffHGvudhn`
-
-**USDT (ERC20 / BEP20)**  
-`0xffd15549476c4edb8cedbe82ac0e7375791d3643`
-
-**Bitcoin (BTC)**  
-`3FTAb6adzPNCsUKGb5NEigWecv8xBkgvU6`
-
-**Solana (SOL)**  
-`8bXsiRykJZu8ftQsHcMN7JaHifreRuYqCNSD7UVNnP6t`
+<table>
+  <tr>
+    <td><strong>USDT (TRC20)</strong></td>
+    <td><pre><code>TSgqVFpfBvXTir22aKvPDYPpAffHGvudhn</code></pre></td>
+  </tr>
+  <tr>
+    <td><strong>USDT (ERC20 / BEP20)</strong></td>
+    <td><pre><code>0xffd15549476c4edb8cedbe82ac0e7375791d3643</code></pre></td>
+  </tr>
+  <tr>
+    <td><strong>Bitcoin (BTC)</strong></td>
+    <td><pre><code>3FTAb6adzPNCsUKGb5NEigWecv8xBkgvU6</code></pre></td>
+  </tr>
+  <tr>
+    <td><strong>Solana (SOL)</strong></td>
+    <td><pre><code>8bXsiRykJZu8ftQsHcMN7JaHifreRuYqCNSD7UVNnP6t</code></pre></td>
+  </tr>
+</table>
 
 Thank you for standing with Ukraine. Your support truly matters.
 
