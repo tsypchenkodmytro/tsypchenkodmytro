@@ -18,28 +18,6 @@ Ukraine continues to face immense humanitarian challenges. Every contribution—
 
 If my open-source work or professional contributions have helped you, please consider supporting the Ukrainian people. Your donation is a **real, direct act of solidarity**.
 
-### 💙 Donation Addresses (Crypto)
-
-GitHub adds a **copy button** automatically for each code block below—use it to copy an address with one click.
-
-<table>
-  <tr>
-    <td><strong>USDT (TRC20)</strong></td>
-    <td><pre><code>TSgqVFpfBvXTir22aKvPDYPpAffHGvudhn</code></pre></td>
-  </tr>
-  <tr>
-    <td><strong>USDT (ERC20 / BEP20)</strong></td>
-    <td><pre><code>0xffd15549476c4edb8cedbe82ac0e7375791d3643</code></pre></td>
-  </tr>
-  <tr>
-    <td><strong>Bitcoin (BTC)</strong></td>
-    <td><pre><code>3FTAb6adzPNCsUKGb5NEigWecv8xBkgvU6</code></pre></td>
-  </tr>
-  <tr>
-    <td><strong>Solana (SOL)</strong></td>
-    <td><pre><code>8bXsiRykJZu8ftQsHcMN7JaHifreRuYqCNSD7UVNnP6t</code></pre></td>
-  </tr>
-</table>
 
 Thank you for standing with Ukraine. Your support truly matters.
 
